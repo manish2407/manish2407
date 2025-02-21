@@ -1,5 +1,10 @@
-## Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Manish Sharma!</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
+<!--
+<div align="center">
+  <a href="https://u8views.com/github/manish2407"><img src="https://u8views.com/api/v1/github/profiles/59833086/views/day-week-month-total-count.svg"></a>
+</div>
+-->
 <!--
 **manish2407/manish2407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/martin-sidorov), [facebook](https://www.facebook.com/nitram278) or by [mail](mailto:martin.sidorov27@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
